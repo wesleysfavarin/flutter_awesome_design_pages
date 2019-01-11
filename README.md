@@ -6,6 +6,7 @@
   Page Name | Pictures   
  --- | --- 
  [Home Page Dasboard Design] | <img src="appimage/homenew.png" height= "400"/>
+ [Colored Card Widget Page Design] | <img src="appimage/colored_card.gif" height= "400"/>
  [Onboarding Design Page with Tinder Animations] | <img src="appimage/onboarding.gif" height= "400"/>
  [Login Page Design Page] | <img src="appimage/loginpage.png" height= "400"/>
  [Credit Card Banking Page UI Design] | <img src="appimage/credit_card.png" height= "400"/>
